@@ -1,4 +1,4 @@
-a = input("Введит число:")
+a = input("Введитe число:")
 b = a + a
 c = b + a
 e = int(a) + int(b) + int(c)
