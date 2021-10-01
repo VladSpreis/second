@@ -1,4 +1,4 @@
-rating = [10, 9, 8, 7, 6, 5, 4, 3, 3, 2, ]
+rating = [10, 9, 8, 7, 6, 5, 4, 3, 3, 2,]
 new_element= int(input("Введите новый элемент рейтинга: "))
 if rating[0] < new_element:
     rating.insert(0, new_element)

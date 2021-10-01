@@ -1,6 +1,7 @@
 number_of_month = int(input("Введите число месяца:"))
 
 my_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+
 if number_of_month == my_list[0] and number_of_month == my_list[1]:
     print("Зима")
 elif number_of_month > my_list[1] and number_of_month < my_list[5]:
